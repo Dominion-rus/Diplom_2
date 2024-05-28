@@ -1,0 +1,1 @@
+{"success":true,"user":{"email":"mail089046@yandex.ru","name":"Olivia Doe"},"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NTU5NDIyOWVkMjgwMDAxYjQxYWUxOSIsImlhdCI6MTcxNjg4NDUxNCwiZXhwIjoxNzE2ODg1NzE0fQ.Vcg1YdgJ1ZcxEdLWN7uBUhwMCjxhQDdPgH3yErr5dVE","refreshToken":"852c99aa33ea2bc46f33592d5dbecbe0ccb31ee90631abec047a44b3a80947b127072c7e6e3ae6e4"}

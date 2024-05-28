@@ -1,0 +1,1 @@
+{"success":true,"user":{"email":"mail399403@yandex.ru","name":"Emma Smith"},"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NTU5NDIxOWVkMjgwMDAxYjQxYWUxNyIsImlhdCI6MTcxNjg4NDUxMywiZXhwIjoxNzE2ODg1NzEzfQ.F1e4Q_jsmX3p0Az0_8QizwHY6HJXMD2bM1MUMyTEW1o","refreshToken":"ac10b6aa6a5e6a59ff51f55b59651767bd664a47cabf32d7defc391dea1781f517555192f7bc8ccf"}

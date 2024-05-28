@@ -1,0 +1,1 @@
+{"success":true,"user":{"email":"mail846627@yandex.ru","name":"Robin Williams"},"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NTU5NDE4OWVkMjgwMDAxYjQxYWUwYSIsImlhdCI6MTcxNjg4NDUwNCwiZXhwIjoxNzE2ODg1NzA0fQ.G4Z_BExXg7xPfVhCxiolSKAcMR3tvAyHyyHec2k4EBM","refreshToken":"04874be6810ea06f437562546915e2e4b97220762278c9ca2fbdcb01ed4f3c4506db3fdceca947b3"}

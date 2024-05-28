@@ -1,0 +1,1 @@
+{"success":true,"user":{"email":"mail020921@yandex.ru","name":"Emma Brown"},"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NTU5NDI3OWVkMjgwMDAxYjQxYWUxZiIsImlhdCI6MTcxNjg4NDUxOSwiZXhwIjoxNzE2ODg1NzE5fQ.MTqHz1IP9TABnMmIj9z9yuiwdS7t3gOCcPWnXXVCOi8","refreshToken":"cad203fec45423fa57c6f1cbad69fc50f6ac47f98e8d6ac0fbe00e88fe00688e50569bad7e4bafcb"}

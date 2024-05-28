@@ -1,0 +1,1 @@
+{"success":true,"user":{"email":"mail290898@yandex.ru","name":"Sophia Johnson"},"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NTU5NDE3OWVkMjgwMDAxYjQxYWUwOCIsImlhdCI6MTcxNjg4NDUwMywiZXhwIjoxNzE2ODg1NzAzfQ.cf4s9FtHhdVM2Y36_FV3o6T1rNR3gzRyL-hPjdKmVzs","refreshToken":"7bc29ddaef90f59c4c6d9048b2a0761a381c25f5eda840b58686eb41cf5da3b54fa838824c136594"}
