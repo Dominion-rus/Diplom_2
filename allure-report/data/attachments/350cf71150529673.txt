@@ -1,0 +1,1 @@
+{"success":true,"user":{"email":"mail558382@yandex.ru","name":"Sophia Hood"},"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NTU5NDFhOWVkMjgwMDAxYjQxYWUwZSIsImlhdCI6MTcxNjg4NDUwNiwiZXhwIjoxNzE2ODg1NzA2fQ.mNu3h1l961gTmSOZ6Jb0ZQHPAPub0BhDkio4C8yphtE","refreshToken":"aadfc019664cfaa87b7c689a69ae56e410263662a55201302a401ef359e0991b0a922d3e747fbad8"}

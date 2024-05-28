@@ -1,0 +1,1 @@
+{"success":true,"user":{"email":"mail603018@yandex.ru","name":"John Smith"},"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NTU5NDE1OWVkMjgwMDAxYjQxYWUwNiIsImlhdCI6MTcxNjg4NDUwMSwiZXhwIjoxNzE2ODg1NzAxfQ.O-S4joYf_9WDXOP_2nSnCnWdB4qe-XCfwYO1sgL4HQA","refreshToken":"f56caa5b51c970620075052c3cc56b403159b878f1de553b50bccafaa543123d3e13f8a16fc36573"}

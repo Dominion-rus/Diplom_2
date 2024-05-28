@@ -1,0 +1,1 @@
+{"success":true,"user":{"email":"mail920825@yandex.ru","name":"Sophia Williams"},"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NTU5NDI0OWVkMjgwMDAxYjQxYWUxYyIsImlhdCI6MTcxNjg4NDUxNiwiZXhwIjoxNzE2ODg1NzE2fQ.GtFfiCB53xkk_ABgQf6YZnfyh1D5grVZLKb9SXa1UN0","refreshToken":"1d2f5871850a76504aefb10f591f3207828e4cf7c8fd9bd470be162eeb1642595937add2a010abd5"}

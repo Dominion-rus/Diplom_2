@@ -1,0 +1,1 @@
+{"success":true,"user":{"email":"mail286108@yandex.ru","name":"Robin Jones"},"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NTU5NDFmOWVkMjgwMDAxYjQxYWUxNSIsImlhdCI6MTcxNjg4NDUxMSwiZXhwIjoxNzE2ODg1NzExfQ.7uMjF2mMW-Z8sBpxTtjdqD1cjiRShs2cGhaNYYqPZDA","refreshToken":"617c40ea82b0f9e6297fb04ae0543fa23a1b129749fe9e9639562206b5abd189efbb88bd775a9178"}

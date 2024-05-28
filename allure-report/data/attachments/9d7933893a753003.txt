@@ -1,0 +1,1 @@
+{"success":true,"user":{"email":"mail519636@yandex.ru","name":"Isabella Brown"},"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NTU5NDFjOWVkMjgwMDAxYjQxYWUxMCIsImlhdCI6MTcxNjg4NDUwOCwiZXhwIjoxNzE2ODg1NzA4fQ.SZ_tDg-sYtBBIl-PyD465S5OirXY0pNpDEUdr_j534I","refreshToken":"ef4a8a259588fbdeaf59f5d135f5087e11168b617df9aad9ae93e23690acf7de3a89bd0c8fef5c5d"}

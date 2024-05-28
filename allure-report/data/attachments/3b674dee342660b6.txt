@@ -1,0 +1,1 @@
+{"success":true,"user":{"email":"mail828305@yandex.ru","name":"Sophia Jones"},"accessToken":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2NTU5NDE5OWVkMjgwMDAxYjQxYWUwYyIsImlhdCI6MTcxNjg4NDUwNSwiZXhwIjoxNzE2ODg1NzA1fQ.lHokuh2FLF5OHA9GA7P6g81_rto4QKhObPJqp2O7CLw","refreshToken":"c9dab42ecca4407e558b8a3b3b83bcd8bce1f814cae2ca78a877f3238b71cb11cb74ef6e4758ba88"}
